@@ -11,12 +11,12 @@ I'm Ethan Mlaker, a student at Brigham Young University-Idaho interested in Cybe
 
 ## Technologies and Tools
 
-- Proficiency: I wwouldn't consider myself proficient yet, but I am a novice in HTML, CSS, and Python. I am a begginer in JS still.
+- Proficiency: I wouldn't consider myself proficient yet, but I am a novice in HTML, CSS, and Python. I am a begginer in JS still.
 - Skills: Basic Linux and Powershell skills.
 
 ## Let's Connect!
 
-- Here is my LinkedIn profile: www.linkedin.com/in/ethan-mlaker-176980277
+- Here is my [LinkedIn profile](www.linkedin.com/in/ethan-mlaker-176980277)
 - Here is my email: mla20001@byui.edu
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
