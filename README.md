@@ -6,7 +6,7 @@ I'm Ethan Mlaker, a student at Brigham Young University-Idaho interested in Cybe
 
 ## About Me
 
-- I'm currently learning HTML, CSS, JS, and Python.
+- I'm currently learning BASH, Powershell Scripting, HTML, CSS, JS, and Python.
 - My goals are to learn best practices with these programming languages to harden defenses and mitigate risks of attack.
 
 ## Technologies and Tools
@@ -16,8 +16,8 @@ I'm Ethan Mlaker, a student at Brigham Young University-Idaho interested in Cybe
 
 ## Let's Connect!
 
-- Here is my [LinkedIn profile](www.linkedin.com/in/ethan-mlaker-176980277)
-- Here is my email: mla20001@byui.edu
+- Here is my [LinkedIn profile](www.linkedin.com/in/emlaker)
+- Here is my email: emlaker5150@outlook.com
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
